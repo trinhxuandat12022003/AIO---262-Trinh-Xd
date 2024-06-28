@@ -1,0 +1,7 @@
+All project on this folder run on streamlit, so you need to install streamlit with
+pip install streamlit
+For object detection file, we need to use cv2 package, which can be install with this command
+pip install opencv-python
+For chatbot file, you'll need to have an hugging face account in advance and install hug chat with this command
+pip install hugchat
+For the python version, by the time i make this, i was using version 3.11
