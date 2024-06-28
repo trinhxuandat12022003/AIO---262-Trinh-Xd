@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 
 /.vscode
+/source.zip
+/__MACOSX
+/source
+/.sonarlint
