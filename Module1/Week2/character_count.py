@@ -10,7 +10,7 @@ def character_count(word):
             char_count[char] += 1
         else:
             char_count[char] = 1
-
+            
     return char_count
 
 
