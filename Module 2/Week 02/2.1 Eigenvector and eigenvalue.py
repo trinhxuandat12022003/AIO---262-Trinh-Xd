@@ -6,6 +6,6 @@ def compute_eigenvalues_eigenvectors(matrix):
     return eigenvalues, eigenvectors
 
 
-matrix = np. array ([[0.9 , 0.2] , [0.1 , 0.8]])
-eigenvalues , eigenvectors = compute_eigenvalues_eigenvectors ( matrix )
-print ( eigenvectors )
+matrix = np. array([[4, 1], [2, 3]])
+eigenvalues, eigenvectors = compute_eigenvalues_eigenvectors(matrix)
+print(eigenvectors, eigenvalues)
