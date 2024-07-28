@@ -6,7 +6,7 @@ def compute_dot_product(vector1, vector2):
     return result
 
 
-v1 = np. array ([0 , 1 , -1 , 2])
-v2 = np. array ([2 , 5 , 1 , 0])
-result = compute_dot_product (v1 , v2)
-print ( round (result ,2) )
+v1 = np. array([1, 2, 3])
+v2 = np. array([4, 5, 6])
+result = compute_dot_product(v1, v2)
+print(round(result, 2))
